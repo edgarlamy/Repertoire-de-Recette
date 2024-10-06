@@ -1,0 +1,22 @@
+'''
+- application/site web avec des recettes
+
+Base de donnees:
+- Nom de recette
+- Ingredient
+- Etape 
+- Etoile
+- Compte utilisateur:
+- Nom du compte
+- Mot de passe
+- Type de recette:
+- Petit dej
+- Dej et din
+- Dessert
+
+Design:
+-1 Login and Sign up page
+-2 F. Principal -> avec choix de cliquer sur trois options(petit Dej, Dej, Dessert)
+-3 Liste de recette de soit petit Dej, Dej ou Dessert 
+-4 Recette du plat choisi (avec image, ingredient, recette et boutons avis)
+-5 Avis sur le plat(etoiles) 
